@@ -1,11 +1,11 @@
 # Chromium-Wheel-Smooth-Scroller-Custom-Preset
 Importante:
 
-![mouse_wheel](https://github.com/Jurrer/Chromium-Wheel-Smooth-Scroller-Custom-Preset/assets/mouse_wheel.png)
+<img src=https://github.com/Jurrer/Chromium-Wheel-Smooth-Scroller-Custom-Preset/raw/main/assets/mouse_wheel.png alt="mouse wheel" width=450>
 
 Less importante:
 
-![mouse_wheel](https://github.com/Jurrer/Chromium-Wheel-Smooth-Scroller-Custom-Preset/assets/keyboard.png)
+<img src=https://github.com/Jurrer/Chromium-Wheel-Smooth-Scroller-Custom-Preset/raw/main/assets/keyboard.png alt="keyboard" width=450>
 
 ## Settings
 
